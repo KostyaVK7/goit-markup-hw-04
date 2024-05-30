@@ -384,6 +384,7 @@ background-color: #404bbf;
 }
 
 /* FOOTER */
+
 .footer {
     background-color: #2e2f42;
     padding: 100px 0;
@@ -403,7 +404,6 @@ background-color: #404bbf;
     margin-bottom: 16px;
 }
 .footer-section {
-    display: flex;
     align-items: baseline;
     margin-right: 120px;
 }
@@ -415,7 +415,7 @@ background-color: #404bbf;
     color: #f4f4fd;
     max-width: 264px;
 }
-.footer-social{
+.footer-social {
     display: flex;
     align-items: baseline;
     justify-content: center;
@@ -428,6 +428,7 @@ background-color: #404bbf;
     letter-spacing: 0.02em;
     color: #fff;
     margin-bottom: 16px;
+    padding: 5;
 }   
 .footer-list {
     display: flex;
