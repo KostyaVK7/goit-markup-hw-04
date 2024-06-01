@@ -424,11 +424,9 @@ background-color: #404bbf;
     max-width: 264px;
 }
 .footer-social {
-    display: flex;
     align-items: baseline;
     justify-content: center;
     gap: 16px;
-    margin-left: 120px;
 }
 .social-media-t {
     font-weight: 500; 
